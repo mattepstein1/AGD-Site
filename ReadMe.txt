@@ -1,0 +1,2 @@
+Web page for Albany Garage Doors. Fully working contact form as well as smooth scrolling and bootstrap enabled containers allowing mobile and computer browsing without formatting issues.
+Programmed in HTML - JavaScrript - Bootstrap - PHP
